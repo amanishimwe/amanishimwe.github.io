@@ -55,7 +55,6 @@ Skills
 * **Advanced Technologies:** Machine Learning, NLP, IoT, Remote Sensing, GIS (ArcGIS, QGIS)  
 * **Specializations:** AI Safety and Alignment  
 * **Professional Certifications:** IBM Data Science, IBM Data Engineering, IBM Artificial Intelligence V2, IBM Watson V2, Design Factory Korea, Google Developer Program for Africa, IBM Machine Learning  
-
   
 Service and Leadership
 ======
