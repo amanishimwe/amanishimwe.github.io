@@ -1,8 +1,9 @@
 ---
-permalink: /about/
-title: "About Me – Alban Manishimwe"
+permalink: /
+title: "Alban Manishimwe – AI & Data Science Explorer"
 author_profile: true
 redirect_from: 
+  - /about/
   - /about.html
 ---
 
