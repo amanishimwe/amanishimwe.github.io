@@ -1,6 +1,6 @@
 ---
-title: "APIMS for EAC universities"
-excerpt: "Academic Programmes Information Management System — Django, MySQL"
+title: "Academic Programmes Information Management System for Universities in the East African Community"
+excerpt: "Django, MySQL — APIMS for EAC universities"
 collection: portfolio
 ---
 

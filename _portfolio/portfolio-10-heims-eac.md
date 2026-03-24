@@ -1,6 +1,6 @@
 ---
-title: "Higher Education Information Management System (EAC)"
-excerpt: "Implementation strategy and architecture — EAC higher education information system"
+title: "Higher Education Information Management System in the EAC"
+excerpt: "Implementation strategy and architecture — HEIMS in the East African Community"
 collection: portfolio
 ---
 

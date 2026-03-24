@@ -1,7 +1,7 @@
 ---
-title: "IUCEA mobile app requirements"
-excerpt: "Contributed to requirements design for the IUCEA mobile app"
+title: "IUCEA mobile app"
+excerpt: "Contributed to the design of project requirements"
 collection: portfolio
 ---
 
-Contributed to the design of the requirements for the IUCEA mobile app.
+Contributed to the design of the project requirements for the IUCEA mobile app.

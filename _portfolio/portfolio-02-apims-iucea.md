@@ -1,6 +1,6 @@
 ---
-title: "Academic Programmes Information Management System (APIMS)"
-excerpt: "Software developer — Inter-University Council for East Africa · Django, Bootstrap, GitHub CI/CD"
+title: "Academic Programmes Information Management System (APIMS) for Inter-University Council for East Africa"
+excerpt: "Project software developer — Django, Bootstrap, GitHub CI/CD"
 collection: portfolio
 ---
 
