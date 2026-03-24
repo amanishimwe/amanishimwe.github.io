@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alban Manishimwe – AI & Data Science Explorer"
+title: "Alban Manishimwe – AI and Data Scientist Researcher"
 author_profile: true
 redirect_from: 
   - /about/
