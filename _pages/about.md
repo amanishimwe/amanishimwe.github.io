@@ -1,45 +1,13 @@
 ---
-permalink: /
-title: "Alban Manishimwe – AI & Data Science Explorer 🤖📊"
+permalink: /about/
+title: "About Me – Alban Manishimwe"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
-Hi, I’m **Alban Manishimwe**! 👋 I explore the world of **AI, data science, and technology** to create tools and insights that make real-world problems easier to solve. From building intelligent models 🤖 to analyzing complex data 📊, I love turning information into **actionable solutions**.  
+Hi! I’m **Alban Manishimwe** 👋, a **Data Scientist and AI researcher** based in **Kampala, Uganda** 🇺🇬. I specialize in **responsible AI, machine learning, and data-driven systems** for public and enterprise applications.  
 
-This site is a snapshot of my journey 🌍 — you’ll find my projects, experiments, and creative explorations in **AI, machine learning, and data-driven systems**. Everything here is hands-on, practical, and meant to spark ideas 💡 or collaboration 🤝.
+Currently, I work at the **Uganda Bureau of Statistics**, leading AI and data science projects, and I have consulted for international organizations such as **DEJ Technology GmbH**, **United Nations Foundation**, and **GIZ Uganda**. My work spans **AI system design, large-scale data engineering, and model development**, with practical applications in statistical systems, recruitment platforms, and urban analytics.  
 
----
-
-A Personal Data Playground 🛠️
-======
-I like keeping things **organized, reproducible, and shareable** 📂. That’s why this site is built using structured files that automatically generate a clean, interactive website 🌐. Each update I make is immediately live 🔄, so it’s always fresh and up-to-date.  
-
-Here you can see my projects in action 🚀, explore datasets I’m working with 📁, or just follow along as I experiment with new AI tools and techniques 🧪.
-
----
-
-Tools & Play 🛠️
-======
-I work with a variety of tools to make ideas happen:  
-
-- **Python & PyTorch** 🐍 – building AI models  
-- **SQL & Cloud (AWS)** ☁️ – handling data at scale  
-- **Jupyter Notebooks** 📓 – exploring and visualizing data  
-- **Mermaid & Plotly** 📈 – creating diagrams and interactive visuals  
-
----
-
-Explore & Connect 🌐
-======
-Take a look at my **projects, code experiments, and notebooks** 📂. Everything here is open and easy to explore.  
-
-If you’re curious, you can also fork this site template 🔧 and make your own version — all hosted on GitHub for free! 🖥️
-
----
-
-Why This Matters ✨
-======
-I believe **technology should be useful, accessible, and fun** 😄. This website is my way of sharing what I’m building, experimenting with, and learning — a place where ideas meet action ⚡.
+I’m passionate about building **ethical, impactful, and scalable AI solutions**, developing tools that turn complex data into actionable insights, and mentoring the next generation of data professionals.  
